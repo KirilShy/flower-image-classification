@@ -15,8 +15,8 @@ This is a machine learning project for classifying flower images using a CNN mod
 2. Open the Jupyter Notebook and run all cells.
 
 ## Dataset
-The dataset used is [insert dataset source, e.g., Kaggle Flowers Dataset].
+The dataset used is https://storage.googleapis.com/download.tensorflow.org/example_images/flower_photos.tgz.
 
 ---
 
-Made with ❤️ using Python, TensorFlow, and Keras.
+Made using Python, TensorFlow, and Keras.
